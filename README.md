@@ -1,6 +1,6 @@
 # Login Client/Server Application with MySQL C API
 
-![Project Logo](.png)
+![Project Logo](https://github.com/normalhuman01/Login-Client-Server-MySQL-API/blob/main/Client/imagen.png)
 
 ## Overview
 
