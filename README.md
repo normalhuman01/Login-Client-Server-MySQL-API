@@ -1,6 +1,8 @@
 # Login Client/Server Application with MySQL C API
 
-![Project Logo](https://github.com/normalhuman01/Login-Client-Server-MySQL-API/blob/main/Client/imagen.png)
+<div style="text-align: center;">
+  <img src="https://github.com/normalhuman01/Login-Client-Server-MySQL-API/blob/main/Client/imagen.png" alt="Project Logo" />
+</div>
 
 ## Overview
 
@@ -48,5 +50,3 @@ These are some future enhancements planned for the project:
 - Implement encrypted logins for users stored in the database (decryption handled by the server).
 - Restrict authentication to root users only for added security.
 - Encrypt user names and passwords stored in the MySQL database (currently hard-coded in 'UsersManager.cpp').
-
-
